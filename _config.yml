@@ -1,5 +1,43 @@
-title: Surja pratim Bej
+#title: Surja pratim Bej
 #logo: /assets/img/headshot_circle.png
 #description: text below image
-show_downloads: true
+#show_downloads: true
+#theme: jekyll-theme-minimal
+
+# Site settings
+title: "Surja Pratim Bej - Resume Portfolio"
+description: "Experienced Quality System Professional and Data Analysis Enthusiast seeking challenging roles."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io/resume-portfolio" # the base hostname & protocol for your site
+
+# Theme
 theme: jekyll-theme-minimal
+
+# Exclude files from being processed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+
+# Markdown settings
+markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Author information
+author:
+  name: "Surja Pratim Bej"
+  bio: "Experienced Quality System Professional and Data Analysis Enthusiast seeking challenging roles."
+  location: "Jamshedpur, India"
+  email: "example@example.com"
+
+# Social links
+social:
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/surjapratimbej/"
+  # Add more social links if needed
