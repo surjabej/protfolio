@@ -10,31 +10,31 @@ show_downloads: true
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://yourusername.github.io/resume-portfolio" # the base hostname & protocol for your site
 
-# Theme
+#Theme
 #theme: jekyll-theme-minimal
 
-# Exclude files from being processed
+#Exclude files from being processed
 #exclude:
-  #- Gemfile
-  #- Gemfile.lock
- #- node_modules
- #- vendor
- #- README.md
+#Gemfile
+#Gemfile.lock
+#node_modules
+#vendor
+#README.md
 
-# Markdown settings
+#Markdown settings
 #markdown: kramdown
 
-# Plugins
+#Plugins
 #plugins:
- # - jekyll-seo-tag
-  #- jekyll-feed
+#jekyll-seo-tag
+#jekyll-feed
 
-# Author information
+#Author information
 #author:
- # name: "Surja Pratim Bej"
- #bio: "Experienced Quality System Professional and Data Analysis Enthusiast seeking challenging roles."
- #location: "Jamshedpur, India"
- #email: "example@example.com"
+#name: "Surja Pratim Bej"
+#bio: "Experienced Quality System Professional and Data Analysis Enthusiast seeking challenging roles."
+#location: "Jamshedpur, India"
+#email: "example@example.com"
 
 Social links
 social:
