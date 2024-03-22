@@ -18,8 +18,8 @@ show_downloads: true
   #- Gemfile
   #- Gemfile.lock
  #- node_modules
-  #- vendor
-  #- README.md
+ #- vendor
+ #- README.md
 
 # Markdown settings
 #markdown: kramdown
