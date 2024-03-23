@@ -1,5 +1,3 @@
-# Surja Pratim Bej
-
 ## Objective
 Experienced Quality System Professional and Data Analysis Enthusiast seeking a challenging role to leverage strong analytical skills, ISO knowledge, and data analysis expertise for driving business insights and process improvements.
 
