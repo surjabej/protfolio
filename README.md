@@ -67,8 +67,9 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
    - Cleaned and transformed data.
    - Created interactive dashboards and reports.
    - Conducted data analysis using DAX function.
+   
    Quality Data Analysis
-   Project Link (https://app.powerbi.com/view?     r=eyJrIjoiNzgyMzFlZjQtMjE1ZC00ZTBiLWE2ZTctMjNiYjEyODAzMzZjIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9)
+   Project Link (https://app.powerbi.com/view?r=eyJrIjoiNzgyMzFlZjQtMjE1ZC00ZTBiLWE2ZTctMjNiYjEyODAzMzZjIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9)
 
 ## Achievements
 - Implemented Process Stabilization, Loss Reduction, ISO/TS 16949-2009, and 5S.
