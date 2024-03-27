@@ -68,14 +68,17 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
    - Created interactive dashboards and reports.
    - Conducted data analysis using DAX function.
 
-   **Project Link
+   Project Link
    **Quality Data Analysis
+   
    https://app.powerbi.com/view?r=eyJrIjoiNzgyMzFlZjQtMjE1ZC00ZTBiLWE2ZTctMjNiYjEyODAzMzZjIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9
 
   **Clasic Model Sales Dashboard (Axon Cars)
+  
   https://app.powerbi.com/view?r=eyJrIjoiOWI3ZjhjOGYtNGNmMy00MDlmLWEzNTYtMWU3OWVhNjg3MGRiIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9 
 
   **HR Data Analysis
+  
   https://app.powerbi.com/reportEmbed?reportId=0b7a8987-5ffa-4b5e-b841-dc6e79531c79&autoAuth=true&ctid=a1fcaaa1-6b72-48f3-911c-78d17aaf5729
 
 ## Achievements
