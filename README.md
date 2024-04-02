@@ -71,7 +71,7 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
   
 ## My Power BI Project
 
-You can access my Power BI project [here]([(https://github.com/surjabej/powerbi-project)]
+You can access my Power BI project [here]([(https://github.com/surjabej/powerbi-project](https://app.powerbi.com/view?r=eyJrIjoiNzgyMzFlZjQtMjE1ZC00ZTBiLWE2ZTctMjNiYjEyODAzMzZjIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9)]
 
    
    **Quality Data Analysis
