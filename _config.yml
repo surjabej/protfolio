@@ -8,7 +8,7 @@
 #link: https://www.linkedin.com/in/surja-bej-653365264
 
 title: SURJA PRATIM BEJ # You can add your name here
-logo: /assets/img/jay.jpg # Use a relative path to logo image 
+logo: /assets/img/jay_1.jpg # Use a relative path to logo image 
 description: Quality System Professional and Data Analysis # Fix hyphenation 
 show_downloads: true # Fix spelling
 theme: jekyll-theme-minimal 
