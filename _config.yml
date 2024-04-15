@@ -1,8 +1,17 @@
-title: SURJA PRATIM BEJ
-mobile_number: 09471310476
-location: JAMSHEDPUR, JHARKHAND
-email: surjabej@gmail.com
-logo: /assets/img/jay.jpg
-remote_theme: pages-themes/cayman@v0.1.1
-theme: jekyll-theme-minimal
-link: https://www.linkedin.com/in/surja-bej-653365264
+#title: SURJA PRATIM BEJ
+#mobile_number: 09471310476
+#location: JAMSHEDPUR, JHARKHAND
+#email: surjabej@gmail.com
+#logo: /assets/img/jay.jpg
+#remote_theme: pages-themes/cayman@v0.1.1
+#theme: jekyll-theme-minimal
+#link: https://www.linkedin.com/in/surja-bej-653365264
+
+title: SURJA PRATIM BEJ # You can add your name here
+logo: /assets/img/jay.jpg # Use a relative path to logo image 
+description: Data science and AI in agriculture - where bytes and botany blend for a better world. # Fix hyphenation 
+show_downloads: true # Fix spelling
+theme: jekyll-theme-minimal 
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+email: surjabej@gmail.com # Allow visitors to contact you
