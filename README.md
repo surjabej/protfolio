@@ -74,7 +74,7 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
 
 ## Interests
 - Listening to music, playing cricket
-- 
+
 ## Contact Information
 
 **Email:** [surjabej@gmail.com](mailto:surjabej@gmail.com)
