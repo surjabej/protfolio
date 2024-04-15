@@ -74,3 +74,16 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
 
 ## Interests
 - Listening to music, playing cricket
+- 
+## Contact Information
+
+**Email:** [surjabej@gmail.com](mailto:surjabej@gmail.com)
+
+**Phone:** 09471310476
+
+**Address:** Jamshedpur,Jharkhand
+
+**LinkedIn:** [linkedin.com/in/surja-bej-653365264](https://www.linkedin.com/in/surja-bej-653365264)
+
+Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to new opportunities and collaborations.
+
