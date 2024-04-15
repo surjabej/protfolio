@@ -32,7 +32,7 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
 
 ## Professional Experience
 ### HYDROKRIMP AC PVT LTD, Gamharia, Jamshedpur
-**Quality Assurance System Manager** (since 2012 – Present)
+**Quality Head** (since 2012 – Present)
 - Implemented and maintained quality management system.
 - Managed PPAP, quality plan, and process validation.
 - Conducted ISO 9001:2015 third party external audit.
@@ -63,7 +63,7 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
    
 2. **Sales, HR, Production Efficiency, and Quality Data Analysis**
    - Analyzed data using Power BI.
-   - Conducted live data analysis for Manufacturing Production Efficiency at HYDROKRIMP AC PVT LTD JAMSHEDPUR.
+   - Conducted live data analysis for Manufacturing Production Efficiency,Rejection Data Analysies 2023-24 at HYDROKRIMP AC PVT LTD JAMSHEDPUR.
    - Cleaned and transformed data.
    - Created interactive dashboards and reports.
    - Conducted data analysis using DAX function.
