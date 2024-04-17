@@ -5,11 +5,6 @@ email: surjabej@gmail.com
 logo: /assets/img/jay_1.jpg
 description: Quality System Professional & Data Analyst
 show_downloads: true
-{% if page.show_downloads %}
-## Downloads
-- [Resume](/assets/img/resume.pdf)
-{% endif %}
-#remote_theme: pages-themes/cayman@v0.1.1
 theme: jekyll-theme-minimal
 link: https://www.linkedin.com/in/surja-bej-653365264
 
