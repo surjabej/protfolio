@@ -7,7 +7,7 @@ description: Quality System Professional & Data Analyst
 show_downloads: true
 {% if page.show_downloads %}
 ## Downloads
-- [Resume](/assets/resume.pdf)
+- [Resume](/assets/img/resume.pdf)
 {% endif %}
 #remote_theme: pages-themes/cayman@v0.1.1
 theme: jekyll-theme-minimal
