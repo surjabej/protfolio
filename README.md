@@ -9,14 +9,16 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
 ## Certifications
 - **Certified Data Science Professional (2023)**
   Data Science Boot Camp, Odin School
-- **ISO 9001:2008 Internal Auditor Training Course (2015)**
+- **Data visualization With Power BI (2024)**
+  Great Learning 
 - **SIX SIGMA Certification**
   - WHITE BELT (2024) - C.S.S.C
   - YELLOW BELT (2024) - 6SIGMA STUDY
   - BASICS OF LEAN SIX SIGMA (2024): GREEN BELT- ALISON
 - **Certification of Business Analytics with Excel (2024)**
   Simplilearn
-
+- **ISO 9001:2008 Internal Auditor Training Course (2015)**
+  120-IATS
 ## Technical Skills
 - **Data Analysis**: Microsoft Excel
 - **Database Management**: MYSQL
@@ -57,18 +59,17 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
 
 ## Data Science Projects
 1. **Credit Card Approval Prediction**
-   - Predicted credit card approval rates using machine learning.
-   - Developed models with up to 92% accuracy.
-   - Implemented Logistic Regression, K-Nearest Neighbors, Decision Tree, and Random Forest algorithms.
+- Predicted credit card approval rates using machine learning.
+- Developed models with up to 92% accuracy.
+- Implemented Logistic Regression, K-Nearest Neighbors, Decision Tree, and Random Forest algorithms.
    
 2. **Sales, HR, Production Efficiency, and Quality Data Analysis**
-   - Analyzed data using Power BI.
-   - Conducted live data analysis for Manufacturing Production Efficiency,Rejection Data Analysies 2023-24 at HYDROKRIMP AC PVT LTD JAMSHEDPUR.
-   - Cleaned and transformed data.
-   - Created interactive dashboards and reports.
-   - Conducted data analysis using DAX function.
+- Analyzed data using Power BI.
+- Conducted live data analysis for Manufacturing Production Efficiency,Rejection Data Analysies 2023-24 at HYDROKRIMP AC PVT LTD JAMSHEDPUR.
+- Cleaned and transformed data.
+- Created interactive dashboards and reports.
+- Conducted data analysis using DAX function.
 
- 
 ## Achievements
 - Implemented Process Stabilization, Loss Reduction, ISO/TS 16949-2009, and 5S.
 
