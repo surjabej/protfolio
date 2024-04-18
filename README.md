@@ -19,6 +19,7 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
   Simplilearn
 - **ISO 9001:2008 Internal Auditor Training Course (2015)**
   120-IATS
+
 ## Technical Skills
 - **Data Analysis**: Microsoft Excel
 - **Database Management**: MYSQL
