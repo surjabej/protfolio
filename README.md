@@ -71,7 +71,7 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
 - Created interactive dashboards and reports.
 - Conducted data analysis using DAX function.
   
-  ## Project Link
+## Project Link
   1. **Sales Dashboard :**
   
   [https://app.powerbi.com/view?r=eyJrIjoiOWI3ZjhjOGYtNGNmMy00MDlmLWEzNTYtMWU3OWVhNjg3MGRiIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9](https://app.powerbi.com/view?r=eyJrIjoiOWI3ZjhjOGYtNGNmMy00MDlmLWEzNTYtMWU3OWVhNjg3MGRiIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9)
