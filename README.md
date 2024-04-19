@@ -73,14 +73,14 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
   
 ## Project Link
   1. **Sales Dashboard :**
+     
+      [https://app.powerbi.com/view?r=eyJrIjoiOWI3ZjhjOGYtNGNmMy00MDlmLWEzNTYtMWU3OWVhNjg3MGRiIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9](https://app.powerbi.com/view?r=eyJrIjoiOWI3ZjhjOGYtNGNmMy00MDlmLWEzNTYtMWU3OWVhNjg3MGRiIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9)
   
-      [https://app.powerbi.com/view?r=eyJrIjoiOWI3ZjhjOGYtNGNmMy00MDlmLWEzNTYtMWU3OWVhNjg3MGRiIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9](https://  app.powerbi.com/view?r=eyJrIjoiOWI3ZjhjOGYtNGNmMy00MDlmLWEzNTYtMWU3OWVhNjg3MGRiIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9)
-  
-  2. **Quality Analysies Dashboard :**
+  3. **Quality Analysies Dashboard :**
   
       [https://app.powerbi.com/view?r=eyJrIjoiNzgyMzFlZjQtMjE1ZC00ZTBiLWE2ZTctMjNiYjEyODAzMzZjIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9](https://app.powerbi.com/view?r=eyJrIjoiNzgyMzFlZjQtMjE1ZC00ZTBiLWE2ZTctMjNiYjEyODAzMzZjIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9)
   
-  3. **Rejection Analysies Dashboard :**
+  4. **Rejection Analysies Dashboard :**
   
       [https://app.powerbi.com/view?r=eyJrIjoiMzcyN2UzYmYtNzVlNy00ZGU1LTliNDgtNTExMDA3YmVjYzBhIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9](https://app.powerbi.com/view?r=eyJrIjoiMzcyN2UzYmYtNzVlNy00ZGU1LTliNDgtNTExMDA3YmVjYzBhIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9)
   
