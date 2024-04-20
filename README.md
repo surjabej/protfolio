@@ -83,6 +83,12 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
   4. **Rejection Analysies Dashboard :**
   
       [https://app.powerbi.com/view?r=eyJrIjoiMzcyN2UzYmYtNzVlNy00ZGU1LTliNDgtNTExMDA3YmVjYzBhIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9](https://app.powerbi.com/view?r=eyJrIjoiMzcyN2UzYmYtNzVlNy00ZGU1LTliNDgtNTExMDA3YmVjYzBhIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9)
+
+  5. **Production Efficiency Dashboard :**
+
+     [https://app.powerbi.com/view?r=eyJrIjoiYzc5N2QyNDQtMzNjYS00YWFlLTlmZWQtMzc5ZTU3NmU5NDBkIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9](https://app.powerbi.com/view?r=eyJrIjoiYzc5N2QyNDQtMzNjYS00YWFlLTlmZWQtMzc5ZTU3NmU5NDBkIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9)
+
+     
   
 ## Achievements
 - Implemented Process Stabilization, Loss Reduction, ISO/TS 16949-2009, and 5S.
