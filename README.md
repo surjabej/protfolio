@@ -91,10 +91,10 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
      
   
 ## Achievements
-- Implemented Process Stabilization, Loss Reduction, ISO/TS 16949-2009, and 5S.
+-implemented process stabilization, loss reduction, cost optimization, ISO 9001:2015 and TS 16949:2009 standards, and 5S practices.
 
 ## Interests
-- Listening to music, playing cricket
+-Listening to music, playing cricket
 
 ## Contact Information
 
