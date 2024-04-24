@@ -107,7 +107,7 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
 **LinkedIn:** [linkedin.com/in/surja-pratim-bej-653365264](https://linkedin.com/in/surja-pratim-bej-653365264)
 
 ## Downloads
-- [Resume](/assets/img/resume.pdf)
+- [Resume](/assets/img/surjapratimbej_23.04.2024)
 
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to new opportunities and collaborations.
