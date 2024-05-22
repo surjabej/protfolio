@@ -36,27 +36,29 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
 ## Professional Experience
 ### HYDROKRIMP AC PVT LTD, Gamharia, Jamshedpur
 **Quality Head** (since 2012 – Present)
-- Implemented and maintained quality management system.
-- Managed PPAP, quality plan, and process validation.
-- Conducted ISO 9001:2015 third party external audit.
-- Maintained Key Performance Indicator (KPI) records.
+- Implemented and maintained the quality management system.
+- Managed PPAP, quality plans, and process validation.
+- Conducted quality management meetings and ISO 9001:2015 audits.
+- Maintained KPI records and prepared MIS reports.
 - Prepared monthly production reports and conducted rejection analyses.
-- Handled customer complaints and initiated Corrective and Preventive Actions (CAPA).
-- Prepared and maintained Management Information System (MIS) reports.
+- Monitored employee performance and efficiency.
+- Handled customer complaints and initiated CAPA.
+- Calculated manufacturing costs and implemented 5S activities.
 
 ### INDUSTRIAL FORGE ENGG.CO.LTD, Gamharia, Jamshedpur
 **Quality Officer** (Oct 2007 - Mar 2012)
-- Controlled ERP system and Supply Chain Management.
+- Controlled ERP system and supply chain management.
 - Prepared TS 16949:2009, ISO 9001:2008, and ISO 14001 records.
-- Managed PPAP, Quality Plan, and Process validation.
+- Managed PPAP, quality plans, and process validation.
+- Handled material test and inspection reports.
 - Addressed customer complaints and third-party inspections.
 
 ### ARUSH METAL CASTING PVT. LTD., Gamharia, Jamshedpur
 **Quality Officer** (May 2005 - Oct 2007)
-- Prepared tender documentation for Public & Private Sector.
-- Managed ISO documentation.
-- Conducted independent inspections.
-- Utilized statistical tools like SPC and MSA in Minitab software.
+- Prepared tender documentation and ISO documentation.
+- Conducted independent inspections and used AutoCAD.
+- Operated measurement instruments and used SPC/MSA in Minitab.
+- Prepared test certificates.
 
 ## Data Science Projects
 1. **Credit Card Approval Prediction**
@@ -79,16 +81,22 @@ Experienced Quality System Professional and Data Analysis Enthusiast seeking a c
 
   3. [Rejection Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzcyN2UzYmYtNzVlNy00ZGU1LTliNDgtNTExMDA3YmVjYzBhIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9)
 
-  4. [Production Efficiency Dashboard ](https://app.powerbi.com/view?r=eyJrIjoiYzc5N2QyNDQtMzNjYS00YWFlLTlmZWQtMzc5ZTU3NmU5NDBkIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9)
+  4. [Production Efficiency Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzc5N2QyNDQtMzNjYS00YWFlLTlmZWQtMzc5ZTU3NmU5NDBkIiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9)
+     
+  5. [HR Analytics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODZkN2EzYTgtMzhkNy00ZThhLTlmYTItMjliOTg5ZDY2YTA2IiwidCI6ImExZmNhYWExLTZiNzItNDhmMy05MTFjLTc4ZDE3YWFmNTcyOSJ9)
 
-
+  6. [House Price Prediction Using ML](https://github.com/surjabej/House_price_23.11.23)
+     
+  7. [Credit card approval Using ML](https://github.com/surjabej/Cradit_card-approval)   
+     
+  8. [Health Insurance Cost Prediction Using ML](https://github.com/surjabej/Health_insurance_cost)
      
   
 ## Achievements
--implemented process stabilization, loss reduction, cost optimization, ISO 9001:2015 and TS 16949:2009 standards, and 5S practices.
+- implemented process stabilization, loss reduction, cost optimization, ISO 9001:2015 and TS 16949:2009 standards, and 5S practices.
 
 ## Interests
--Listening to music, playing cricket
+- Listening to music, playing cricket
 
 ## Contact Information
 
